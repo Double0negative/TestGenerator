@@ -36,7 +36,7 @@ public class TestGeneratorPlugin extends JavaPlugin implements Listener{
 		
 		
 		if(!b){
-			System.out.println("Failed to populate"+ chunk.getX() +":"+chunk.getZ()+"..");
+			System.out.println("Failed to populate "+ chunk.getX() +":"+chunk.getZ()+"..");
 			
 			set.remove(chunk.getX() +":"+chunk.getZ());
 			
