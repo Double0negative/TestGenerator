@@ -1,0 +1,7 @@
+name: TestGenerator
+authors: [Double0negative, MCSG]
+version: 0.0.1
+main: org.mcsg.generator.TestGeneratorPlugin
+load: STARTUP
+
+
